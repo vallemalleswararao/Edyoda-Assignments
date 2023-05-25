@@ -6,4 +6,4 @@ a, b = 0, 1
 # generate fibonacci sequence
 while b < 50:
     print(b)
-    a, b= b, a+bs
+    a, b= b, a+b
