@@ -1,0 +1,1 @@
+{"Andhra Pradesh": "Hyderabad", "Karnataka": "Bengaluru", "Maharashtra": "Mumbai", "Tamil Nadu": "Chennai", "Uttar Pradesh": "Lucknow", "Gujarat": "Gandhinagar", "Rajasthan": "Jaipur"}
